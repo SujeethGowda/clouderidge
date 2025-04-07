@@ -274,6 +274,7 @@ a:focus {
 
 .slider_section .detail-box {
   color: #00204a;
+
 }
 
 .slider_section .detail-box h1 {
@@ -499,6 +500,7 @@ a:focus {
 
 .about_section .img-box img {
   max-width: 100%;
+  height:500px;
 }
 
 .about_section .detail-box h3 {
